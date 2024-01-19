@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MarginTrading/static/css/main.b1d7ec7b.css",
+    "main.js": "/MarginTrading/static/js/main.1c7972a6.js",
+    "static/js/415.417ecd82.chunk.js": "/MarginTrading/static/js/415.417ecd82.chunk.js",
+    "static/media/LogoLiquidityPool.png": "/MarginTrading/static/media/LogoLiquidityPool.66308cd0b85f5513cea2.png",
+    "static/media/logo.svg": "/MarginTrading/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/README.md": "/MarginTrading/static/media/README.b7db7ff828a61592bd2a.md",
+    "index.html": "/MarginTrading/index.html",
+    "main.b1d7ec7b.css.map": "/MarginTrading/static/css/main.b1d7ec7b.css.map",
+    "main.1c7972a6.js.map": "/MarginTrading/static/js/main.1c7972a6.js.map",
+    "415.417ecd82.chunk.js.map": "/MarginTrading/static/js/415.417ecd82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.1c7972a6.js"
+  ]
+}
